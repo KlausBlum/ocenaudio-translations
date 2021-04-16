@@ -2536,7 +2536,7 @@ Wollen Sie Ihr Mischpult aktivieren?</translation>
     </message>
     <message>
         <source>Don&apos;t Change (22050 Hz)</source>
-        <translation>Don&apos;t-Änderung (22050 Hz)</translation>
+        <translation>Nicht ändern (22050 Hz)</translation>
     </message>
     <message>
         <source>6000 Hz</source>
@@ -2588,7 +2588,7 @@ Wollen Sie Ihr Mischpult aktivieren?</translation>
     </message>
     <message>
         <source>Don&apos;t Change (mono)</source>
-        <translation>Don&apos;t Veränderung (mono)</translation>
+        <translation>Nicht ändern (mono)</translation>
     </message>
     <message>
         <source>2 channels (stereo)</source>
@@ -2624,7 +2624,7 @@ Wollen Sie Ihr Mischpult aktivieren?</translation>
     </message>
     <message>
         <source>Don&apos;t Change</source>
-        <translation>Don&apos;t Ändern</translation>
+        <translation>Nicht ändern</translation>
     </message>
     <message>
         <source>Select Custom Sample Rate</source>
